@@ -1,10 +1,18 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
-
+# Laceration AI
+Avatar AI
 ```
-yarn
 yarn dev
 ```
+Avatar AI created to answer questions. (NOT FINISHED)
+
+# Languages
+Vite.js
+
+# Dependencies
+Three Fiber 
+
+# Preview
+![screenshot](https://github.com/user-attachments/assets/c10f24a1-e0b8-48d9-b5b3-3da0d436d5a2)
 
 
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+
